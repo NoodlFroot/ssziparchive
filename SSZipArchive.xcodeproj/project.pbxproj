@@ -425,7 +425,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = SS;
-				LastUpgradeCheck = 1020;
+				LastUpgradeCheck = 9999;
 				ORGANIZATIONNAME = "Sam Soffes";
 				TargetAttributes = {
 					7A59495A19E38BE500F65F90 = {
